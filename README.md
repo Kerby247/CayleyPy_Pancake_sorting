@@ -1,5 +1,3 @@
-# CayleyPy_Pancake_sorting
-
 # 🥞 Pancake Sorting: Решение для соревнования CayleyPy
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Kerby-blue)](https://www.kaggle.com/competitions/CayleyPy-pancake)
